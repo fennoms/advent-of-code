@@ -12,8 +12,8 @@ advent-of-code/
     │
     └───DD/
         │   input.txt (ignored)
-        │   test.txt
-        │   solution.py (ignored)
+        │   test.txt (ignored)
+        │   solution.py
 ```
 
 This structure is very important in order to make the script work. The script uses this structure in order to load input and execute the solutions.
