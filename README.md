@@ -1,6 +1,6 @@
 # advent-of-code
 
-This repository contains Python solutions for the Advent of Code problems.
+This repository contains Python solutions for the Advent of Code problems. The performance of these solutions is not optimal (WIP).
 
 ## Directory structure
 The directory structure is as follows:
